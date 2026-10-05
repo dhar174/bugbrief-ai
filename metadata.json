@@ -1,0 +1,6 @@
+{
+  "name": "BugBrief AI",
+  "description": "Turn chaos into an actionable bug report with Gemini AI triage, reproduction steps, root cause hypotheses, and investigation checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
