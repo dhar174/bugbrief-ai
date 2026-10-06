@@ -217,7 +217,6 @@ ${context ? `Additional Architectural / Environment Context:\n${context.trim()}`
       contents: promptText,
       config: {
         systemInstruction,
-        temperature: 0.2, // Low temperature for consistent, analytical structured output
         responseMimeType: 'application/json',
         responseSchema: triageResponseSchema,
       },
